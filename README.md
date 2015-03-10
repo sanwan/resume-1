@@ -58,7 +58,14 @@
 * 担任中山大学现代互联网应用俱乐部主席。
 * 曾在微信实习，担任前端开发职位。
 
-## 个人作品
+## 项目经历
+
+#### [兔展](http://www.rabbitpre.com/)
+项目网站：http://www.rabbitpre.com/
+
+移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
+
+本人完成了此项目的基础架构设计和第一个版本的实现。
 
 #### [Saber](https://github.com/livoras/saber)
 项目地址：https://github.com/livoras/saber
