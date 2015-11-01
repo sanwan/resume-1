@@ -14,15 +14,13 @@
 
 **学校专业**： 中山大学软件学院
 
-**电话**：13642313971
-
 **Email**：me@livoras.com
 
 **博客**：http://livoras.com
 
 **github**：https://github.com/livoras
 
-**英语水平**：四级 528 六级 500。能熟练阅读、书写英文，曾经在[伯乐在线](http://blog.jobbole.com/)做过一段时间的前端技术翻译。
+**英语水平**：四级 528 六级 500。能熟练阅读、书写英文。
 
 ## 自我简介
 
@@ -30,25 +28,13 @@
 
 有两年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
 
-拥有较强的学习能力和团队合作能力。熟悉项目开发流程和团队协同工作，了解领导能力的重要性。
+拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
 ## 技术能力
 
-基本和Web相关的领域都了解过。
-
-专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用。熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验。
-
-* 掌握JavaScript类库：jQuery
-* 掌握JavaScript框架：Backbone、AngularJS、KnockoutJS、Durandal
-* 掌握JavaScript模块加载器：SeaJS、RequireJS、Browserify
-* 掌握CSS预编译器：LessCss、SassCss
-* 掌握项目构建工具：Grunt、Gulp、mimosa
-* 掌握前端测试框架以及工具：Jasmine、Mocha、Karma
-* 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握基本后端开发：Python、PHP、NodeJS
-* 掌握测试驱动开发：TDD、BDD
-* 和Web相关的技术：Linux、Flask、SQLAlchemy、Express、MongoDB、Socket.io等
-
+* 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
+* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验。
+* 熟练掌握NodeJS相关开发。
 
 ## 个人经历
 * 2011年进入中山大学软件学院学习。
@@ -56,7 +42,7 @@
 * 大二开始创业，曾在项目中担任前端工程师和Team Leader角色。
 * 有使用框架构建较大型前端SPA的经验（BackboneJS | KnockoutJS | Angular）。
 * 担任中山大学现代互联网应用俱乐部主席。
-* 曾在微信实习，担任前端开发职位。
+* 2015~2016 腾讯微信Web前端工程师。
 
 ## 项目经历
 
