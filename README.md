@@ -33,7 +33,7 @@
 ## 技术能力
 
 * 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
-* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验t（BackboneJS | KnockoutJS | Angular）。
+* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
 * 熟练掌握NodeJS相关开发。
 
 ## 个人经历
