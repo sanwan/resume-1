@@ -16,7 +16,7 @@
 
 **Email**：me@livoras.com
 
-**博客**：http://livoras.com
+**博客**：https://github.com/livoras/blog/issues
 
 **github**：https://github.com/livoras
 
@@ -24,27 +24,29 @@
 
 ## 自我简介
 
-曾创业一年，在团队当中担任Team Leader以及前端架构师。有大型SPA架构经验（4万行CoffeeScript），对前端框架、开发模式、架构有丰富的经验和独特见解。
+曾在创业团队当中担任Team Leader以及前端架构师。有大型SPA架构经验（4万行CoffeeScript），对前端框架、开发模式、架构有丰富的经验和独特见解。
 
-有两年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
+有4年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
 
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
 ## 技术能力
 
 * 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
-* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验。
+* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验t（BackboneJS | KnockoutJS | Angular）。
 * 熟练掌握NodeJS相关开发。
 
 ## 个人经历
 * 2011年进入中山大学软件学院学习。
 * 大一接触Web，并且专注前端，热血编程至今。
-* 大二开始创业，曾在项目中担任前端工程师和Team Leader角色。
-* 有使用框架构建较大型前端SPA的经验（BackboneJS | KnockoutJS | Angular）。
+* 大二曾在创业项目中担任前端工程师和Team Leader角色。
 * 担任中山大学现代互联网应用俱乐部主席。
 * 2015~2016 腾讯微信Web前端工程师。
 
-## 项目经历
+## 作品
+
+### [simle-virtual-dom](https://github.com/livoras/simple-virtual-dom)
+Virtual-DOM 算法的一个实现。
 
 #### [兔展](http://www.rabbitpre.com/)
 项目网站：http://www.rabbitpre.com/
@@ -97,10 +99,7 @@
 #### [Shooting Chicken](https://github.com/livoras/shooting-chicken)
 项目地址：https://github.com/livoras/shooting-chicken
 
-一款手机端的HTML5游戏，可以用手机访问：http://livoras.github.io/blog/index.html ,查看效果。
-
-#### Others
-还有其他的可以上 Github 查看：https://github.com/livoras
+一款手机端的HTML5游戏。
 
 ## License
 MIT License
