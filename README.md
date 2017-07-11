@@ -72,7 +72,7 @@
 
 负责前端架构设计和实现，采用 React.js、Redux。
 
-### [simle-virtual-dom](https://github.com/livoras/simple-virtual-dom)
+### [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom)
 Virtual-DOM 算法的一个实现。
 
 #### [兔展](http://www.rabbitpre.com/)
