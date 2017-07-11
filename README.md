@@ -84,6 +84,24 @@ Virtual-DOM 算法的一个实现。
 
 * * *
 
+### [genea](https://github.com/livoras/genea)
+
+项目地址：https://github.com/livoras/genea
+
+JavaScript 遗传算法实现。
+
+### [next-connect-redux](https://github.com/huzidaha/next-connect-redux)
+
+项目地址：https://github.com/huzidaha/next-connect-redux
+
+Next.js 结合 Redux 的工具库。
+
+#### [sme](https://github.com/huzidaha/sme)
+
+项目地址：https://github.com/huzidaha/sme
+
+简单的带虚拟机的 Lisp 实现。
+
 #### [Saber](https://github.com/livoras/saber)
 项目地址：https://github.com/livoras/saber
 
