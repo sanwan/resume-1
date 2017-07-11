@@ -4,45 +4,73 @@
 
 ## 个人信息
 
-**姓名**：戴嘉华 
-
-**性别**：男  
-
-**出生年月**: 1993年1月16日
-
-**籍贯**： 广东省-佛山
-
-**学校专业**： 中山大学软件学院
-
-**Email**：me@livoras.com
-
-**博客**：https://github.com/livoras/blog/issues
-
-**github**：https://github.com/livoras
+* **姓名**：戴嘉华 
+* **网名**：胡子大哈
+* **性别**：男  
+* **出生年月**: 1993 年 1 月
+* **籍贯**： 广东省-佛山
+* **学校专业**： 中山大学软件学院
+* **Email**：me@livoras.com
+* **博客**：
+    * http://huziketang.com/books/react/
+    * https://github.com/livoras/blog/issues
+* **github**：
+    * https://github.com/livoras
+    * https://github.com/huzidaha
+* **知乎**：
+    * https://www.zhihu.com/people/hu-zi-da-ha
+    * https://www.zhihu.com/people/livoras.com
 
 
 ## 自我简介
 
-曾在创业团队当中担任Team Leader以及前端架构师。有大型SPA架构经验（4万行CoffeeScript），对前端框架、开发模式、架构有丰富的经验和独特见解。
+曾在创业团队当中担任 Team Leader 以及前端架构师。有大型SPA架构经验，对前端框架、开发模式、架构有丰富的经验和独特见解。
 
-有4年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
+有多年 Web 开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个 Web Application。能独立开发一个前端框架，并且热衷于开源项目。
 
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
-## 技术能力
 
-* 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
-* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
-* 熟练掌握NodeJS相关开发。
-
-## 个人经历
+## 个人经历 
 * 2011年进入中山大学软件学院学习。
-* 大一接触Web，并且专注前端，热血编程至今。
-* 大二曾在创业项目中担任前端工程师和Team Leader角色。
-* 担任中山大学现代互联网应用俱乐部主席。
-* 2015~2016 腾讯微信Web前端工程师。
+    * 大一接触Web，并且专注前端，热血编程至今。
+    * 大二曾在创业项目中担任前端工程师和 Team Leader 角色。
+    * 担任中山大学现代互联网应用俱乐部主席。
+* 2015~2016 腾讯微信开放平台基础部 Web 前端工程师。
+    * 微信公共平台数据分析前端业务
+    * 微信多客服系统设计与开发
+    * 微信卡券业务
+    * 微信公众号文章评论
+* 2016~2017 深圳市天地同舟科技有限责任公司合伙人。
+* 2017~ 创办 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。
 
 ## 作品
+
+#### [ScriptOJ](https://scriptoj.com)
+
+项目网站：https://scriptoj.com
+
+首个前端评测系统，提供强大的前端在线测试。
+
+#### [《React.js 小书》](http://huziketang.com/books/react/)
+
+项目网站：http://huziketang.com
+
+最受欢迎的 React.js 在线教程作者。
+
+#### [鹿战](http://deerwar.com/)
+
+项目网站：http://deerwar.com/
+
+负责微信 Web 版的前端（React.js、Redux）、接入层 Node.js 的实现。
+
+负责该项目的第一个版本的 iOS 开发（Objective-C）。
+
+#### [微信公众平台多客服系统](https://mpkf.weixin.qq.com/)
+
+项目网站：https://mpkf.weixin.qq.com/
+
+负责前端架构设计和实现，采用 React.js、Redux。
 
 ### [simle-virtual-dom](https://github.com/livoras/simple-virtual-dom)
 Virtual-DOM 算法的一个实现。
@@ -53,6 +81,8 @@ Virtual-DOM 算法的一个实现。
 移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
 
 本人完成了此项目的基础架构设计和第一个版本的实现。
+
+* * *
 
 #### [Saber](https://github.com/livoras/saber)
 项目地址：https://github.com/livoras/saber
