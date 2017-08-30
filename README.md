@@ -41,14 +41,14 @@
     * 微信多客服系统设计与开发
     * 微信卡券业务
 * 2016~2017 深圳市天地同舟科技有限责任公司合伙人。
-* 2017~ 开发 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。、
+* 2017~ 开发 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。
 * 2017~ 开发在线思维导图工具：[凹脑图](https://aonaotu.com)。
 
 ## 作品
 
 #### [凹脑图](https://aonaotu.com)
 
-项目网站：https://aonaotu.com)
+项目网站：https://aonaotu.com
 
 简单好用的在线思维导图工具。
 
