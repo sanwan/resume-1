@@ -40,17 +40,27 @@
     * 微信公共平台数据分析前端业务
     * 微信多客服系统设计与开发
     * 微信卡券业务
-    * 微信公众号文章评论
 * 2016~2017 深圳市天地同舟科技有限责任公司合伙人。
-* 2017~ 创办 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。
+* 2017~ 开发 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。、
+* 2017~ 开发在线思维导图工具：[凹脑图](https://aonaotu.com)。
 
 ## 作品
+
+#### [凹脑图](https://aonaotu.com)
+
+项目网站：https://aonaotu.com)
+
+简单好用的在线思维导图工具。
+
+负责全部开发。
 
 #### [ScriptOJ](https://scriptoj.com)
 
 项目网站：https://scriptoj.com
 
 首个前端评测系统，提供强大的前端在线测试。
+
+负责全部开发。
 
 #### [《React.js 小书》](http://huziketang.com/books/react/)
 
