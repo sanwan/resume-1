@@ -12,10 +12,10 @@
 * **学校专业**： 中山大学软件学院
 * **Email**：me@livoras.com
 * **博客**：
-    * http://huziketang.com/books/react/ (1.8k star)
+    * https://github.com/huzidaha/react-naive-book (1.8k star)
     * https://github.com/livoras/blog/issues (2.3k star)
 * **github**：
-    * https://github.com/livoras
+    * https://github.com/livoras (1.5k followers)
     * https://github.com/huzidaha
 * **知乎**：
     * https://www.zhihu.com/people/hu-zi-da-ha
@@ -54,7 +54,7 @@ Virtual-DOM 算法的一个实现, 1k star。
 
 项目网站：http://huziketang.com
 
-最受欢迎的 React.js 在线教程作者，1.8k star。
+最受欢迎的 React.js 在线教程作者, 1.8k star。
 
 #### [兔展](http://www.rabbitpre.com/)
 项目网站：http://www.rabbitpre.com/
@@ -70,6 +70,10 @@ Virtual-DOM 算法的一个实现, 1k star。
 简单好用的在线思维导图工具。
 
 负责全部开发，十万用户。
+
+#### [QLearning](https://github.com/livoras/QLearning)
+
+Golang 实现的强化学习库
 
 #### [ScriptOJ](https://scriptoj.com)
 
