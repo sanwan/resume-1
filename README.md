@@ -12,8 +12,8 @@
 * **学校专业**： 中山大学软件学院
 * **Email**：me@livoras.com
 * **博客**：
-    * https://github.com/huzidaha/react-naive-book (1.8k star)
     * https://github.com/livoras/blog/issues (2.3k star)
+    * https://github.com/huzidaha/react-naive-book (1.8k star)
 * **github**：
     * https://github.com/livoras (1.5k followers)
     * https://github.com/huzidaha
