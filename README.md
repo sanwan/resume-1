@@ -50,9 +50,9 @@
 
 Virtual-DOM 算法的一个实现, 1k star。
 
-#### [《React.js 小书》](http://huziketang.com/books/react/)
+#### [《React.js 小书》](https://github.com/huzidaha/react-naive-book )
 
-项目网站：http://huziketang.com
+项目网站：https://github.com/huzidaha/react-naive-book 
 
 最受欢迎的 React.js 在线教程作者, 1.8k star。
 
