@@ -63,17 +63,17 @@ Virtual-DOM 算法的一个实现, 1k star。
 
 本人完成了此项目的基础架构设计和第一个版本的实现。
 
-使用 Node.js
+使用 Node.js。
 
 #### [凹脑图](https://aonaotu.com)
 
 项目网站：https://aonaotu.com
 
-简单好用的在线思维导图工具。
+简单好用的在线思维导图工具，十万用户。
 
-负责全部开发，十万用户。
+负责全部开发。
 
-使用 Node.js
+使用 Node.js。
 
 #### [QLearning](https://github.com/livoras/QLearning)
 
@@ -86,6 +86,8 @@ Golang 实现的强化学习库
 首个前端评测系统，提供强大的前端在线测试。
 
 负责全部开发。
+
+使用 Node.js。
 
 #### [鹿战](http://deerwar.com/)
 
