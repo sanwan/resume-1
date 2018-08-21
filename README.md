@@ -57,19 +57,23 @@ Virtual-DOM 算法的一个实现, 1k star。
 最受欢迎的 React.js 在线教程作者, 1.8k star。
 
 #### [兔展](http://www.rabbitpre.com/)
-项目网站：http://www.rabbitpre.com/ Node.js
+项目网站：http://www.rabbitpre.com/
 
 移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
 
 本人完成了此项目的基础架构设计和第一个版本的实现。
 
+使用 Node.js
+
 #### [凹脑图](https://aonaotu.com)
 
-项目网站：https://aonaotu.com Node.js
+项目网站：https://aonaotu.com
 
 简单好用的在线思维导图工具。
 
 负责全部开发，十万用户。
+
+使用 Node.js
 
 #### [QLearning](https://github.com/livoras/QLearning)
 
