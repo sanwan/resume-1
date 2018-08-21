@@ -26,7 +26,7 @@
 
 曾在创业团队当中担任 Team Leader 以及前端架构师。有大型SPA架构经验，对前端框架、开发模式、架构有丰富的经验和独特见解。
 
-有多年 Web 开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个 Web Application。能独立开发一个前端框架，并且热衷于开源项目。
+有多年 Web 开发经验，熟练掌握 Web 前后端技术（Node.js，Golang），能独立开发前后端完成一个 Web Application。能独立开发一个前端框架，并且热衷于开源项目。
 
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
@@ -57,7 +57,7 @@ Virtual-DOM 算法的一个实现, 1k star。
 最受欢迎的 React.js 在线教程作者, 1.8k star。
 
 #### [兔展](http://www.rabbitpre.com/)
-项目网站：http://www.rabbitpre.com/
+项目网站：http://www.rabbitpre.com/ Node.js
 
 移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
 
@@ -65,7 +65,7 @@ Virtual-DOM 算法的一个实现, 1k star。
 
 #### [凹脑图](https://aonaotu.com)
 
-项目网站：https://aonaotu.com
+项目网站：https://aonaotu.com Node.js
 
 简单好用的在线思维导图工具。
 
