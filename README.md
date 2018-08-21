@@ -12,8 +12,8 @@
 * **学校专业**： 中山大学软件学院
 * **Email**：me@livoras.com
 * **博客**：
-    * http://huziketang.com/books/react/
-    * https://github.com/livoras/blog/issues
+    * http://huziketang.com/books/react/ (1.8k star)
+    * https://github.com/livoras/blog/issues (2.3k star)
 * **github**：
     * https://github.com/livoras
     * https://github.com/huzidaha
@@ -41,10 +41,27 @@
     * 微信多客服系统设计与开发
     * 微信卡券业务
 * 2016~2017 深圳市天地同舟科技有限责任公司合伙人。
-* 2017~ 开发 [ScriptOJ](https://scriptoj.com) 并编写[《React.js 小书》](http://huziketang.com/books/react/)。
+* 2017~ 编写[《React.js 小书》](http://huziketang.com/books/react/)。
 * 2017~ 开发在线思维导图工具：[凹脑图](https://aonaotu.com)。
 
 ## 作品
+
+### [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom)
+
+Virtual-DOM 算法的一个实现, 1k star。
+
+#### [《React.js 小书》](http://huziketang.com/books/react/)
+
+项目网站：http://huziketang.com
+
+最受欢迎的 React.js 在线教程作者，1.8k star。
+
+#### [兔展](http://www.rabbitpre.com/)
+项目网站：http://www.rabbitpre.com/
+
+移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
+
+本人完成了此项目的基础架构设计和第一个版本的实现。
 
 #### [凹脑图](https://aonaotu.com)
 
@@ -52,7 +69,7 @@
 
 简单好用的在线思维导图工具。
 
-负责全部开发。
+负责全部开发，十万用户。
 
 #### [ScriptOJ](https://scriptoj.com)
 
@@ -61,12 +78,6 @@
 首个前端评测系统，提供强大的前端在线测试。
 
 负责全部开发。
-
-#### [《React.js 小书》](http://huziketang.com/books/react/)
-
-项目网站：http://huziketang.com
-
-最受欢迎的 React.js 在线教程作者。
 
 #### [鹿战](http://deerwar.com/)
 
@@ -81,16 +92,6 @@
 项目网站：https://mpkf.weixin.qq.com/
 
 负责前端架构设计和实现，采用 React.js、Redux。
-
-### [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom)
-Virtual-DOM 算法的一个实现。
-
-#### [兔展](http://www.rabbitpre.com/)
-项目网站：http://www.rabbitpre.com/
-
-移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
-
-本人完成了此项目的基础架构设计和第一个版本的实现。
 
 <br/>
 <br/>
